@@ -10,7 +10,7 @@ from langchain.chains.summarize import load_summarize_chain
 # Page title
 st.set_page_config(page_title='NK-Text SummarizationApp')
 # Display the logo at the top of the page
-st.image("IMG_1823-photoaidcom-cropped (1).png")  # Adjust width as needed
+st.image("IMG_1823-photoaidcom-cropped (1).JPG")  # Adjust width as needed
 st.divider()  # 👈 Draws a horizontal rule
 st.title('🦜🔗 Text Summarization App')
 st.divider()  # 👈 Draws a horizontal rule
