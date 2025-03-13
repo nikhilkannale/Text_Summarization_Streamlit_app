@@ -8,11 +8,11 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains.summarize import load_summarize_chain
 
 # Page title
-st.set_page_config(page_title='NK-Text SummarizationApp')
+st.set_page_config(page_title='NK-Text SummarizationAp')
 # Display the logo at the top of the page
 st.image("IMG_1823-photoaidcom-cropped (1).JPG")  # Adjust width as needed
 st.divider()  # 👈 Draws a horizontal rule
-st.title('🦜🔗 Text Summarization App')
+st.title('NK 🐯🐯')
 st.divider()  # 👈 Draws a horizontal rule
 # get API Key
 client = Groq(
